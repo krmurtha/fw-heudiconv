@@ -10,7 +10,7 @@ to standardise naming conventions within the user's project directory into BIDS.
 This is particularly useful in Flywheel, where curation, pre-processing, and
 analyses are all automated in the context of BIDS.
 
-BIDS stands for Brain Imaging Directory Structure, and is a standard format for
+`BIDS <https://bids.neuroimaging.io>`_ stands for Brain Imaging Directory Structure, and is a standard format for
 organizing and storing brain imaging data. It's an organisational standard
 that makes it easy to share, collaborate on, and analyse your data. Among many other details,
 BIDS prioritizes having imaging scans located in a nested directory structure,
